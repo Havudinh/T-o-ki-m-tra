@@ -1,0 +1,6 @@
+{
+  "name": "THCS Long Xuyên",
+  "description": "Ứng dụng xây dựng đề kiểm tra THCS Long Xuyên: Ma trận chuẩn – Đặc tả đồng bộ – Câu hỏi chất lượng – Đề kiểm tra thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
